@@ -1,0 +1,22 @@
+/*
+* Sara Brisiel 
+* Due Date 
+* Project Name and Description 
+*/
+
+* {
+} 
+body { 
+    background-color: lightblue;width:90%;margin:auto;
+    
+} 
+img{width:200px;height:200px;}
+#boat{width:200px;height:200px;}
+#island{width:200px;height:200px;}
+#people{width:200px;height:200px;}
+figure {float:right;}
+section{float:right;}
+quotes{float:right;}
+.nofloat{clear:both;}
+
+/* no float for the pictures */ 
